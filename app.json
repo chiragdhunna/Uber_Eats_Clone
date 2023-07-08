@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "UBER_EATS_CLONE_PROJECT",
+    "slug": "UBER_EATS_CLONE_PROJECT",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.chiragdhunna.UBER_EATS_CLONE_PROJECT",
+      "versionCode": 1
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "89d44293-7d47-48e3-9a3c-284ea5f0e3d6"
+      }
+    }
+  }
+}
