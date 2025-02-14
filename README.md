@@ -1,7 +1,7 @@
 # Uber_Eats_Clone
 
-Hey there! Welcome to my Uber Eats Clone repository! 
-🚀 I'm thrilled to share with you my very first mobile application, created from scratch using React Native, Firebase, Yelp API, Places API, Redux, and Google Autocomplete. 
+Hey there! Welcome to my Uber Eats Clone repository!
+🚀 I'm thrilled to share with you my very first mobile application, created from scratch using React Native, Firebase, Yelp API, Places API, Redux, and Google Autocomplete.
 This project aims to bring the convenience of ordering food right to your fingertips, just like the popular Uber Eats app.
 
 Features:
@@ -33,3 +33,9 @@ Tech Stack:
 If you're a beginner like me, or simply interested in creating your own food delivery app, this Uber Eats Clone is a great starting point. Feel free to explore the code, experiment with the features, and make it your own!
 
 Let's embark on this exciting journey together and build our own food delivery app revolution! If you have any questions or suggestions, please don't hesitate to reach out. Happy coding! 😄
+
+To run the project use :
+
+```
+expo run:android
+```
